@@ -1,0 +1,20 @@
+global:
+  scrape_interval:     3s
+
+  external_labels:
+    monitor: 'flask-api'
+
+
+scrape_configs:
+  - job_name: 'prometheus'
+
+    static_configs:
+      - targets: ['localhost:9090']
+
+  - job_name: 'flask'
+
+    dns_sd_configs:
+      - names: ['api']
+        port: 5000
+        type: A
+        refresh_interval: 5s

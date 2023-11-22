@@ -1,0 +1,16 @@
+<--""
+   Level WARNING
+   |
+   o<--"app"
+   |   Level DEBUG
+   |   Handler <MultiLevelHandler (DEBUG)>
+   |     Level DEBUG
+   |     Filter <dict_loggers_task_4.ASCII object at 0x7fd3c29da260>
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+   |
+   o<--"utils"
+       Level INFO
+       Handler TimedRotatingFile '/home/matthew1703/Desktop/PythonAdvanced/mod7/utils.txt' when='H' interval=36000 backupCount=1
+         Level INFO
+         Filter <dict_loggers_task_4.ASCII object at 0x7fd3c29da260>
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None

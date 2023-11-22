@@ -1,0 +1,23 @@
+11:11:37 - password_checker - INFO - Вы пытаетесь аутентифицироваться в Skillbox
+11:11:37 - password_checker - INFO - У вас есть 3 попыток
+11:11:37 - password_checker - DEBUG - Начало input_and_check_password
+11:22:45 - INFO - Вы пытаетесь аутентифицироваться в Skillbox
+11:22:45 - INFO - У вас есть 3 попыток
+11:22:45 - DEBUG - Начало input_and_check_password
+11:22:51 - WARNING - Вы ввели слишком слабый пароль
+11:22:51 - DEBUG - Начало input_and_check_password
+11:23:29 - INFO - Вы пытаетесь аутентифицироваться в Skillbox
+11:23:29 - INFO - У вас есть 3 попыток
+11:23:29 - DEBUG - Начало input_and_check_password
+11:23:32 - WARNING - Вы ввели слишком слабый пароль
+11:23:32 - DEBUG - Начало input_and_check_password
+11:23:35 - WARNING - Вы ввели слишком слабый пароль
+11:23:35 - DEBUG - Начало input_and_check_password
+11:23:39 - WARNING - Вы ввели слишком слабый пароль
+11:23:39 - ERROR - Пользователь трижды ввёл не правильный пароль!
+11:23:46 - INFO - Вы пытаетесь аутентифицироваться в Skillbox
+11:23:46 - INFO - У вас есть 3 попыток
+11:23:46 - DEBUG - Начало input_and_check_password
+11:23:48 - WARNING - Вы ввели слишком слабый пароль
+11:23:48 - DEBUG - Начало input_and_check_password
+11:23:54 - DEBUG - Начало input_and_check_password

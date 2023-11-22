@@ -1,0 +1,319 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 167948 12792 ?        Ss   Сәу26   0:06 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    Сәу26   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [netns]
+root           8  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kworker/0:0H-events_highpri]
+root          10  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        I    Сәу26   0:00 [rcu_tasks_kthread]
+root          12  0.0  0.0      0     0 ?        I    Сәу26   0:00 [rcu_tasks_rude_kthread]
+root          13  0.0  0.0      0     0 ?        I    Сәу26   0:00 [rcu_tasks_trace_kthread]
+root          14  0.0  0.0      0     0 ?        S    Сәу26   0:00 [ksoftirqd/0]
+root          15  0.0  0.0      0     0 ?        I    Сәу26   0:08 [rcu_preempt]
+root          16  0.0  0.0      0     0 ?        S    Сәу26   0:00 [migration/0]
+root          17  0.0  0.0      0     0 ?        S    Сәу26   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    Сәу26   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    Сәу26   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    Сәу26   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    Сәу26   0:00 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    Сәу26   0:06 [ksoftirqd/1]
+root          25  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kworker/1:0H-events_highpri]
+root          26  0.0  0.0      0     0 ?        S    Сәу26   0:00 [cpuhp/2]
+root          27  0.0  0.0      0     0 ?        S    Сәу26   0:00 [idle_inject/2]
+root          28  0.0  0.0      0     0 ?        S    Сәу26   0:00 [migration/2]
+root          29  0.0  0.0      0     0 ?        S    Сәу26   0:00 [ksoftirqd/2]
+root          31  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kworker/2:0H-events_highpri]
+root          32  0.0  0.0      0     0 ?        S    Сәу26   0:00 [cpuhp/3]
+root          33  0.0  0.0      0     0 ?        S    Сәу26   0:00 [idle_inject/3]
+root          34  0.0  0.0      0     0 ?        S    Сәу26   0:00 [migration/3]
+root          35  0.0  0.0      0     0 ?        S    Сәу26   0:00 [ksoftirqd/3]
+root          37  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kworker/3:0H-events_highpri]
+root          38  0.0  0.0      0     0 ?        S    Сәу26   0:00 [kdevtmpfs]
+root          39  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [inet_frag_wq]
+root          40  0.0  0.0      0     0 ?        S    Сәу26   0:00 [kauditd]
+root          41  0.0  0.0      0     0 ?        S    Сәу26   0:00 [khungtaskd]
+root          43  0.0  0.0      0     0 ?        S    Сәу26   0:00 [oom_reaper]
+root          45  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [writeback]
+root          46  0.0  0.0      0     0 ?        S    Сәу26   0:05 [kcompactd0]
+root          47  0.0  0.0      0     0 ?        SN   Сәу26   0:00 [ksmd]
+root          48  0.0  0.0      0     0 ?        SN   Сәу26   0:00 [khugepaged]
+root          49  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kintegrityd]
+root          50  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kblockd]
+root          51  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [blkcg_punt_bio]
+root          53  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [tpm_dev_wq]
+root          54  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [ata_sff]
+root          55  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [md]
+root          56  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [edac-poller]
+root          57  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [devfreq_wq]
+root          59  0.0  0.0      0     0 ?        S    Сәу26   0:00 [watchdogd]
+root          61  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kworker/3:1H-events_highpri]
+root          62  0.0  0.0      0     0 ?        S    Сәу26   0:03 [kswapd0]
+root          63  0.0  0.0      0     0 ?        S    Сәу26   0:00 [ecryptfs-kthread]
+root          69  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kthrotld]
+root          74  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [acpi_thermal_pm]
+root          75  0.0  0.0      0     0 ?        S    Сәу26   0:00 [xenbus_probe]
+root          76  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [vfio-irqfd-clea]
+root          80  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [mld]
+root          81  0.0  0.0      0     0 ?        I<   Сәу26   0:01 [kworker/1:1H-kblockd]
+root          82  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [ipv6_addrconf]
+root          87  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kstrp]
+root          93  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [zswap-shrink]
+root         140  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [charger_manager]
+root         163  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [kworker/0:1H-events_highpri]
+root         190  0.0  0.0      0     0 ?        I<   Сәу26   0:01 [kworker/2:1H-kblockd]
+root         195  0.0  0.0      0     0 ?        S    Сәу26   0:00 [scsi_eh_0]
+root         196  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [scsi_tmf_0]
+root         197  0.0  0.0      0     0 ?        S    Сәу26   0:00 [scsi_eh_1]
+root         198  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [scsi_tmf_1]
+root         199  0.0  0.0      0     0 ?        S    Сәу26   0:00 [scsi_eh_2]
+root         200  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [scsi_tmf_2]
+root         201  0.0  0.0      0     0 ?        S    Сәу26   0:00 [scsi_eh_3]
+root         202  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [scsi_tmf_3]
+root         225  0.0  0.0      0     0 ?        S    Сәу26   0:01 [jbd2/sda2-8]
+root         226  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [ext4-rsv-conver]
+root         265  0.0  0.3  56788 25956 ?        S<s  Сәу26   0:01 /lib/systemd/systemd-journald
+root         311  0.0  0.0  27100  6640 ?        Ss   Сәу26   0:03 /lib/systemd/systemd-udevd
+root         366  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [ktpacpid]
+root         381  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [cfg80211]
+root         405  0.0  0.0      0     0 ?        S    Сәу26   0:19 [irq/49-iwlwifi]
+root         506  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [cryptd]
+root         514  0.0  0.0      0     0 ?        S    Сәу26   0:00 [card0-crtc0]
+root         515  0.0  0.0      0     0 ?        S    Сәу26   0:00 [card0-crtc1]
+root         516  0.0  0.0      0     0 ?        S    Сәу26   0:00 [card0-crtc2]
+root         552  0.0  0.0      0     0 ?        I<   Сәу26   0:00 [rmi4-poller]
+root         556  0.0  0.0      0     0 ?        S    Сәу26   1:05 [irq/64-rmi4_smbus]
+systemd+     586  0.0  0.0  14828  5900 ?        Ss   Сәу26   0:11 /lib/systemd/systemd-oomd
+systemd+     589  0.0  0.1  25524 13040 ?        Ss   Сәу26   0:01 /lib/systemd/systemd-resolved
+systemd+     590  0.0  0.0  89380  6292 ?        Ssl  Сәу26   0:00 /lib/systemd/systemd-timesyncd
+root         754  0.0  0.1 251552  8272 ?        Ssl  Сәу26   0:00 /usr/libexec/accounts-daemon
+root         755  0.0  0.0   2944  2188 ?        Ss   Сәу26   0:00 /usr/sbin/acpid
+avahi        757  0.0  0.0   7624  3888 ?        Ss   Сәу26   0:00 avahi-daemon: running [ostcode-ThinkPad-S1-Yoga-12.local]
+root         758  0.0  0.0  10692  5312 ?        Ss   Сәу26   0:00 /usr/lib/bluetooth/bluetoothd
+root         760  0.0  0.0  20680  3156 ?        Ss   Сәу26   0:00 /usr/sbin/cron -f -P
+message+     761  0.0  0.0  11080  6572 ?        Ss   Сәу26   0:16 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         762  0.0  0.2 347040 19356 ?        Ssl  Сәу26   0:03 /usr/sbin/NetworkManager --no-daemon
+root         773  0.0  0.0 248604  7844 ?        Ssl  Сәу26   0:05 /usr/libexec/iio-sensor-proxy
+root         775  0.0  0.0  82760  3984 ?        Ssl  Сәу26   0:00 /usr/sbin/irqbalance --foreground
+root         777  0.0  0.2  52268 19228 ?        Ss   Сәу26   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         780  0.0  0.1 236880  9304 ?        Ssl  Сәу26   0:04 /usr/libexec/polkitd --no-debug
+root         781  0.0  0.0 251616  6972 ?        Ssl  Сәу26   0:00 /usr/libexec/power-profiles-daemon
+syslog       782  0.0  0.0 222400  5620 ?        Ssl  Сәу26   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         788  0.0  0.0 247840  6980 ?        Ssl  Сәу26   0:00 /usr/libexec/switcheroo-control
+root         789  0.0  0.0  48292  7896 ?        Ss   Сәу26   0:13 /lib/systemd/systemd-logind
+root         790  0.0  0.1 139748  9292 ?        Ssl  Сәу26   0:00 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         791  0.0  0.1 392840 12776 ?        Ssl  Сәу26   0:01 /usr/libexec/udisks2/udisksd
+root         792  0.0  0.1  17908 11200 ?        Ss   Сәу26   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        796  0.0  0.0   7440   340 ?        S    Сәу26   0:00 avahi-daemon: chroot helper
+root         868  0.0  0.1 318044 11172 ?        Ssl  Сәу26   0:00 /usr/sbin/ModemManager
+root         875  0.0  0.1  83788 13300 ?        Ss   Сәу26   0:00 /usr/sbin/cupsd -l
+root         880  0.0  0.2 129332 21592 ?        Ssl  Сәу26   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         915  0.0  0.1 252588  9352 ?        Ssl  Сәу26   0:00 /usr/sbin/gdm3
+root         923  0.0  0.1 329292 11004 ?        Sl   Сәу26   0:00 gdm-session-worker [pam/gdm-autologin]
+ostcode      940  0.0  0.1  19172 11600 ?        Ss   Сәу26   0:04 /lib/systemd/systemd --user
+ostcode      941  0.0  0.0 169812  3488 ?        S    Сәу26   0:00 (sd-pam)
+ostcode      949  0.0  0.0  51040  6396 ?        S<sl Сәу26   0:00 /usr/bin/pipewire
+ostcode      950  0.0  0.0  34804  6024 ?        Ssl  Сәу26   0:00 /usr/bin/pipewire-media-session
+ostcode      951  0.0  0.3 2483036 25880 ?       S<sl Сәу26   0:14 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+ostcode      956  0.0  0.0 326080  7660 ?        SLl  Сәу26   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rtkit        960  0.0  0.0 154000  1532 ?        SNsl Сәу26   0:00 /usr/libexec/rtkit-daemon
+ostcode      964  0.0  0.0 173792  6432 tty2     Ssl+ Сәу26   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+ostcode      966  0.0  0.0  10188  6160 ?        Ss   Сәу26   0:03 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+ostcode      976  0.0  0.1 234424 14804 tty2     Sl+  Сәу26   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+ostcode      977  0.0  0.1 252080  8572 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfsd
+ostcode     1000  0.0  0.0 380884  5688 ?        Sl   Сәу26   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+ostcode     1034  0.0  0.0 103088  5028 ?        Ssl  Сәу26   0:00 /usr/libexec/gnome-session-ctl --monitor
+ostcode     1046  0.0  0.2 605296 18268 ?        Ssl  Сәу26   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+root        1058  0.0  0.0      0     0 ?        S<   Сәу26   0:00 [krfcommd]
+ostcode     1069  0.0  0.0 309608  7684 ?        Sl   Сәу26   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+ostcode     1073  0.4  3.6 5065804 290732 ?      Ssl  Сәу26   7:30 /usr/bin/gnome-shell
+ostcode     1080  0.0  0.0   8560  4152 ?        S    Сәу26   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+ostcode     1154  0.0  0.0 247716  5484 ?        Ssl  Сәу26   0:00 /usr/libexec/xdg-permission-store
+ostcode     1156  0.0  0.2 582868 16928 ?        Sl   Сәу26   0:00 /usr/libexec/gnome-shell-calendar-server
+ostcode     1165  0.0  0.3 821756 25028 ?        Ssl  Сәу26   0:00 /usr/libexec/evolution-source-registry
+root        1170  0.0  0.1 253832  9092 ?        Ssl  Сәу26   0:00 /usr/libexec/upowerd
+ostcode     1173  0.0  0.4 576104 32384 ?        Sl   Сәу26   0:00 /usr/libexec/goa-daemon
+ostcode     1181  0.0  0.3 1392896 30068 ?       Ssl  Сәу26   0:00 /usr/libexec/evolution-calendar-factory
+root        1182  0.0  0.1 172612 11176 ?        Ssl  Сәу26   0:00 /usr/sbin/cups-browsed
+kernoops    1187  0.0  0.0  13080   412 ?        Ss   Сәу26   0:00 /usr/sbin/kerneloops --test
+kernoops    1190  0.0  0.0  13080   456 ?        Ss   Сәу26   0:00 /usr/sbin/kerneloops
+ostcode     1193  0.0  0.1 327664  9612 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+ostcode     1206  0.0  0.1 349988 14692 ?        Sl   Сәу26   0:00 /usr/libexec/goa-identity-service
+ostcode     1208  0.0  0.1 326640  8664 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfs-afc-volume-monitor
+ostcode     1216  0.0  0.0 248068  6760 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfs-goa-volume-monitor
+ostcode     1223  0.0  0.0 248956  6484 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+ostcode     1231  0.0  0.0 156956  5876 ?        Ssl  Сәу26   0:00 /usr/libexec/dconf-service
+ostcode     1232  0.0  0.3 692164 27784 ?        Ssl  Сәу26   0:00 /usr/libexec/evolution-addressbook-factory
+ostcode     1234  0.0  0.0 247868  6396 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+ostcode     1241  0.0  0.0 174496  6800 ?        Ssl  Сәу26   0:00 /usr/libexec/gvfsd-metadata
+root        1254  0.0  0.4 384432 37056 ?        Ssl  Сәу26   0:04 /usr/libexec/packagekitd
+ostcode     1272  0.0  0.1 326476  9192 ?        Sl   Сәу26   0:00 /usr/libexec/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+ostcode     1286  0.0  0.0 162676  7244 ?        Sl   Сәу26   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+ostcode     1288  0.0  0.3 2680624 27260 ?       Sl   Сәу26   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+ostcode     1294  0.0  0.0   2888   964 ?        Ss   Сәу26   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+ostcode     1296  0.0  0.1 326468 12500 ?        Sl   Сәу26   0:16 /usr/bin/ibus-daemon --panel disable
+ostcode     1297  0.0  0.0 322096  7104 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-a11y-settings
+ostcode     1298  0.0  0.3 477556 29400 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-color
+ostcode     1299  0.0  0.2 387112 16408 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-datetime
+ostcode     1300  0.0  0.0 323592  7672 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-housekeeping
+ostcode     1311  0.0  0.3 355964 25936 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-keyboard
+ostcode     1313  0.0  0.3 993980 30780 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-media-keys
+ostcode     1314  0.0  0.3 657444 31872 ?        Ssl  Сәу26   0:07 /usr/libexec/gsd-power
+ostcode     1319  0.0  0.1 261332 11448 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-print-notifications
+ostcode     1323  0.0  0.0 395600  6596 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-rfkill
+ostcode     1324  0.0  0.0 247764  6908 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-screensaver-proxy
+ostcode     1327  0.0  0.1 477604 10912 ?        Ssl  Сәу26   0:01 /usr/libexec/gsd-sharing
+ostcode     1337  0.0  0.1 323972  8352 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-smartcard
+ostcode     1338  0.0  0.1 331020  9864 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-sound
+ostcode     1342  0.0  0.3 356112 26020 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-wacom
+ostcode     1383  0.0  0.7 818896 60412 ?        Sl   Сәу26   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+ostcode     1387  0.0  0.0 248872  7832 ?        Sl   Сәу26   0:00 /usr/libexec/ibus-dconf
+ostcode     1389  0.0  0.3 360980 30820 ?        Sl   Сәу26   0:05 /usr/libexec/ibus-extension-gtk3
+ostcode     1418  0.0  0.0 232260  6272 ?        Sl   Сәу26   0:00 /usr/libexec/gsd-disk-utility-notify
+ostcode     1419  0.0  0.0 248800  7916 ?        Sl   Сәу26   0:00 /usr/libexec/ibus-portal
+ostcode     1497  0.0  0.1 353828 14808 ?        Sl   Сәу26   0:00 /usr/libexec/gsd-printer
+ostcode     1498  0.0  0.0 548600  7820 ?        Ssl  Сәу26   0:00 /usr/libexec/xdg-document-portal
+root        1505  0.0  0.0   2792   984 ?        Ss   Сәу26   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+ostcode     1512  0.0  0.0 175184  7652 ?        Sl   Сәу26   0:04 /usr/libexec/ibus-engine-simple
+colord      1556  0.0  0.1 257000 13040 ?        Ssl  Сәу26   0:00 /usr/libexec/colord
+ostcode     1561  0.0  0.2 718560 23108 ?        SNsl Сәу26   0:00 /usr/libexec/tracker-miner-fs-3
+ostcode     1567  0.0  0.1 635372 14076 ?        Ssl  Сәу26   0:00 /usr/libexec/xdg-desktop-portal
+ostcode     1575  0.0  0.3 740700 27988 ?        Ssl  Сәу26   0:01 /usr/libexec/xdg-desktop-portal-gnome
+ostcode     1591  0.0  0.3 2746248 27124 ?       Sl   Сәу26   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+ostcode     1641  0.0  0.3 356652 26672 ?        Ssl  Сәу26   0:00 /usr/libexec/xdg-desktop-portal-gtk
+ostcode     1832  0.0  0.3 432304 29328 ?        Sl   Сәу26   0:00 update-notifier
+ostcode     2293  0.3  1.1 683980 96240 ?        Sl   Сәу26   4:50 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.8VWT31 -listen 4 -listen 5 -displayfd 6 -initfd 7
+ostcode     2333  0.0  1.0 832092 80932 ?        Ssl  Сәу26   0:00 /usr/libexec/gsd-xsettings
+ostcode     2370  0.0  0.3 206276 25984 ?        Sl   Сәу26   0:04 /usr/libexec/ibus-x11
+root        2983  0.1  0.5 1245032 45312 ?       Ssl  Сәу26   1:46 /usr/lib/snapd/snapd
+uuidd       3373  0.0  0.0  22984  1500 ?        Ss   Сәу26   0:00 /usr/sbin/uuidd --socket-activation
+ostcode     4320  0.0  0.1 794320 13324 ?        Sl   Сәу26   0:00 /usr/bin/snap userd
+ostcode     6013  0.0  0.0  76420  7112 ?        Ss   Сәу26   0:00 /snap/snapd-desktop-integration/57/usr/bin/snapd-desktop-integration
+ostcode     6194  0.0  0.1 309652 15720 ?        Sl   Сәу26   0:00 /snap/snapd-desktop-integration/57/usr/bin/snapd-desktop-integration
+root        6680  0.0  1.0 529688 85832 ?        Ssl  Сәу26   0:04 /usr/libexec/fwupd/fwupd
+ostcode    11809  0.0  0.3  52252 27952 ?        S    Сәу26   0:00 /home/ostcode/PycharmProjects/pythonProject/venv/bin/python /home/ostcode/PycharmProjects/pythonProject/python_advanced/module_01_flask/homework/app.py
+ostcode    12025  0.0  1.1 266708 93604 ?        Sl   Сәу26   0:28 /home/ostcode/PycharmProjects/pythonProject/venv/bin/python /home/ostcode/PycharmProjects/pythonProject/python_advanced/module_01_flask/homework/app.py
+ostcode    12923  0.0  0.7 574016 61080 ?        Rsl  Сәу26   0:10 /usr/libexec/gnome-terminal-server
+ostcode    12949  0.0  0.0  22592  5864 pts/0    Ss+  Сәу26   0:00 bash
+ostcode    15123  0.0  0.0  22592  5876 pts/2    Ss   Сәу26   0:00 bash
+ostcode    16720  0.9  6.3 4475300 511192 ?      Sl   Сәу26  10:36 /snap/firefox/2356/usr/lib/firefox/firefox
+ostcode    16875  0.0  0.4 223240 38040 ?        Sl   Сәу26   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -prefsLen 26047 -prefMapSize 229096 -appDir /snap/firefox/2356/usr/lib/firefox/browser {22bfc33c-12ff-4b83-bd49-9a594c4b1e2f} 16720 true socket
+ostcode    16892  0.0  1.3 2446200 108124 ?      Sl   Сәу26   0:01 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 26188 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {0fef1aae-1ff3-44e1-9212-0ee08c0e0849} 16720 true tab
+ostcode    17048  0.0  1.0 2443636 87540 ?       Sl   Сәу26   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 31636 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {570553ec-ced1-4f60-a400-dff0368cf15f} 16720 true tab
+ostcode    17323  1.0  3.4 2905344 275476 ?      Sl   Сәу26  11:49 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 31636 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {8c1bc61e-0fb4-49a8-9220-7ca651251acb} 16720 true tab
+ostcode    17325  0.0  2.4 2703292 200464 ?      Sl   Сәу26   0:11 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 31636 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {3ef467ae-d75b-4738-9b54-d879cb78bf1b} 16720 true tab
+ostcode    17331  0.1  4.3 2867988 351592 ?      Sl   Сәу26   1:41 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 31636 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {be06ce06-2a24-48b2-b772-b52730b6b33d} 16720 true tab
+ostcode    17418  0.3  1.2 476684 99956 ?        Sl   Сәу26   4:40 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -prefsLen 31798 -prefMapSize 229096 -appDir /snap/firefox/2356/usr/lib/firefox/browser {6207218c-78f3-4019-89e1-6321801d2c86} 16720 true rdd
+ostcode    17420  0.0  0.4 227568 35316 ?        Sl   Сәу26   0:01 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -sandboxingKind 0 -prefsLen 31798 -prefMapSize 229096 -appDir /snap/firefox/2356/usr/lib/firefox/browser {6adedcb6-7c3a-4311-b8b3-bbf4b5cbfc78} 16720 true utility
+root       18064  0.0  0.0      0     0 ?        I<   Сәу26   0:02 [kworker/u17:2-rb_allocator]
+root       18670  0.0  0.0  95540   736 ?        Ss   10:05   0:00 gpg-agent --homedir /var/lib/fwupd/gnupg --use-standard-socket --daemon
+root       19654  0.0  0.0      0     0 ?        I    10:10   0:01 [kworker/0:1-events]
+root       21083  0.0  0.0      0     0 ?        I    10:31   0:01 [kworker/3:1-events]
+root       21173  0.0  0.0      0     0 ?        I    10:32   0:00 [kworker/2:2-events]
+root       21347  0.0  0.0      0     0 ?        I    10:39   0:01 [kworker/1:1-cgroup_destroy]
+ostcode    21859  0.0  1.9 2686104 156076 ?      Sl   10:41   0:07 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 24 -isForBrowser -prefsLen 31798 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {02edd471-24ac-49ae-b4fe-d60d6e3632c4} 16720 true tab
+ostcode    22021  2.2 27.3 7529976 2198748 ?     SLl  10:42   5:52 /snap/pycharm-professional/331/jbr/bin/java -classpath /snap/pycharm-professional/331/lib/app.jar:/snap/pycharm-professional/331/lib/3rd-party-rt.jar:/snap/pycharm-professional/331/lib/util.jar:/snap/pycharm-professional/331/lib/util_rt.jar:/snap/pycharm-professional/331/lib/util-8.jar:/snap/pycharm-professional/331/lib/jps-model.jar:/snap/pycharm-professional/331/lib/stats.jar:/snap/pycharm-professional/331/lib/protobuf.jar:/snap/pycharm-professional/331/lib/external-system-rt.jar:/snap/pycharm-professional/331/lib/intellij-test-discovery.jar:/snap/pycharm-professional/331/lib/forms_rt.jar:/snap/pycharm-professional/331/lib/rd.jar:/snap/pycharm-professional/331/lib/externalProcess-rt.jar:/snap/pycharm-professional/331/lib/annotations-java5.jar:/snap/pycharm-professional/331/lib/async-profiler-windows.jar:/snap/pycharm-professional/331/lib/async-profiler.jar:/snap/pycharm-professional/331/lib/byte-buddy-agent.jar:/snap/pycharm-professional/331/lib/error-prone-annotations.jar:/snap/pycharm-professional/331/lib/groovy.jar:/snap/pycharm-professional/331/lib/intellij-coverage-agent-1.0.706.jar:/snap/pycharm-professional/331/lib/jetbrains-annotations.jar:/snap/pycharm-professional/331/lib/jsch-agent.jar:/snap/pycharm-professional/331/lib/junit4.jar -XX:ErrorFile=/home/ostcode/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/ostcode/java_error_in_pycharm_.hprof -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=512m -XX:+UseG1GC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -XX:+IgnoreUnrecognizedVMOptions -XX:CompileCommand=exclude,com/intellij/openapi/vfs/impl/FilePartNodeRoot,trieDescend -ea -Dsun.io.useCanonCaches=false -Dsun.java2d.metal=true -Djbr.catch.SIGABRT=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dsun.tools.attach.tmp.only=true -Xmx979m -Djb.vmOptionsFile=/home/ostcode/.config/JetBrains/PyCharm2023.1/pycharm64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharm2023.1 -Djna.boot.library.path=/snap/pycharm-professional/331/lib/jna/amd64 -Dpty4j.preferred.native.folder=/snap/pycharm-professional/331/lib/pty4j -Djna.nosys=true -Djna.noclasspath=true -Didea.platform.prefix=Python -Dsplash=true --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.ref=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.text=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.fs=ALL-UNNAMED --add-opens=java.base/sun.security.ssl=ALL-UNNAMED --add-opens=java.base/sun.security.util=ALL-UNNAMED --add-opens=java.desktop/com.sun.java.swing.plaf.gtk=ALL-UNNAMED --add-opens=java.desktop/java.awt=ALL-UNNAMED --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED --add-opens=java.desktop/java.awt.event=ALL-UNNAMED --add-opens=java.desktop/java.awt.image=ALL-UNNAMED --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED --add-opens=java.desktop/java.awt.font=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED --add-opens=java.desktop/sun.awt=ALL-UNNAMED --add-opens=java.desktop/sun.font=ALL-UNNAMED --add-opens=java.desktop/sun.java2d=ALL-UNNAMED --add-opens=java.desktop/sun.swing=ALL-UNNAMED --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED com.intellij.idea.Main
+ostcode    22161  0.0  0.0   3672  1980 ?        S    10:42   0:00 /snap/pycharm-professional/331/bin/fsnotifier
+ostcode    22227  0.0  0.0  23128  6232 pts/1    Ss+  10:43   0:00 /bin/bash --rcfile /snap/pycharm-professional/331/plugins/terminal/jediterm-bash.in -i
+ostcode    22230  0.0  0.7 293108 56684 ?        S    10:43   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=zygote --no-zygote-sandbox --disable-in-process-stack-traces --force-device-scale-factor=1.0 --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --lang=en-US --user-data-dir=/home/ostcode/.config/cef_user_data --log-file=/home/ostcode/jcef_22021.log
+ostcode    22231  0.0  0.6 293092 55156 ?        S    10:43   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=zygote --disable-in-process-stack-traces --force-device-scale-factor=1.0 --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --lang=en-US --user-data-dir=/home/ostcode/.config/cef_user_data --log-file=/home/ostcode/jcef_22021.log
+ostcode    22233  0.0  0.1 293120 14616 ?        S    10:43   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=zygote --disable-in-process-stack-traces --force-device-scale-factor=1.0 --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --lang=en-US --user-data-dir=/home/ostcode/.config/cef_user_data --log-file=/home/ostcode/jcef_22021.log
+ostcode    22249  0.0  1.6 1713208 136420 ?      Sl   10:43   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=gpu-process --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --lang=en-US --user-data-dir=/home/ostcode/.config/cef_user_data --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --disable-in-process-stack-traces --log-file=/home/ostcode/jcef_22021.log --shared-files --field-trial-handle=0,i,9555931303650763241,11280157106995737620,131072 --disable-features=SpareRendererForSitePerProcess
+ostcode    22270  0.0  0.9 712072 74256 ?        Sl   10:43   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=none --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --lang=en-US --user-data-dir=/home/ostcode/.config/cef_user_data --disable-in-process-stack-traces --log-file=/home/ostcode/jcef_22021.log --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9555931303650763241,11280157106995737620,131072 --disable-features=SpareRendererForSitePerProcess
+ostcode    22533  0.0  0.3 662040 31372 ?        Sl   10:45   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=ru --service-sandbox-type=utility --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --lang=en-US --user-data-dir=/home/ostcode/.config/cef_user_data --disable-in-process-stack-traces --log-file=/home/ostcode/jcef_22021.log --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9555931303650763241,11280157106995737620,131072 --disable-features=SpareRendererForSitePerProcess
+ostcode    22570  0.0  1.2 43591376 97472 ?      Sl   10:45   0:00 /snap/pycharm-professional/331/jbr/lib/jcef_helper --type=renderer --locales-dir-path=/snap/pycharm-professional/331/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-professional/331/jbr/lib --user-data-dir=/home/ostcode/.config/cef_user_data --disable-in-process-stack-traces --force-device-scale-factor=1.0 --log-file=/home/ostcode/jcef_22021.log --lang=ru --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --launch-time-ticks=8209060046 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9555931303650763241,11280157106995737620,131072 --disable-features=SpareRendererForSitePerProcess
+ostcode    23648  0.0  1.3 2456924 104500 ?      Sl   11:23   0:01 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 35 -isForBrowser -prefsLen 31855 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {ad88f493-d913-4638-9ab5-5dbefbc89e40} 16720 true tab
+ostcode    23686  0.0  1.7 2596716 140160 ?      Sl   11:23   0:02 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 36 -isForBrowser -prefsLen 31855 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {3ca93c91-4bd1-4f10-a5ff-10a71e8c9c65} 16720 true tab
+ostcode    23688  0.0  1.0 2420388 81528 ?       Sl   11:23   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 37 -isForBrowser -prefsLen 31855 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {8d074da4-4193-494f-b78c-1153668af89d} 16720 true tab
+ostcode    23735  0.0  1.3 2471496 106496 ?      Sl   11:23   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 38 -isForBrowser -prefsLen 31855 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {4960ab55-cc9c-4ec5-bd5d-620bc3144f98} 16720 true tab
+ostcode    23738  0.0  1.3 2477180 109604 ?      Sl   11:23   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 39 -isForBrowser -prefsLen 31855 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {487f5685-6e09-42ed-a0c9-c34e9574e40c} 16720 true tab
+root       24157  0.0  0.0      0     0 ?        I    11:27   0:00 [kworker/0:4-events]
+root       24164  0.0  0.0      0     0 ?        I    11:27   0:00 [kworker/u16:8-events_unbound]
+root       24168  0.0  0.0      0     0 ?        I    14:42   0:00 [kworker/u16:12-events_unbound]
+root       24203  0.0  0.0      0     0 ?        I    14:42   0:00 [kworker/u16:46-events_power_efficient]
+root       24222  0.0  0.0      0     0 ?        I<   14:42   0:00 [kworker/u17:1-hci0]
+root       24225  0.0  0.0      0     0 ?        I    14:42   0:00 [kworker/2:4-events]
+ostcode    24233  0.0  0.7 2404040 63544 ?       Sl   14:42   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 43 -isForBrowser -prefsLen 31855 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {c8c36d5f-72fe-49bd-9b7c-03041c849c90} 16720 true tab
+ostcode    24795  0.0  0.7 2404032 61140 ?       Sl   14:47   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 44 -isForBrowser -prefsLen 31854 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {f257c0c2-7f30-4050-af4d-fa406251aa56} 16720 true tab
+root       24901  0.0  0.0      0     0 ?        I    14:49   0:00 [kworker/3:0-events]
+root       24948  0.0  0.0      0     0 ?        I    14:50   0:00 [kworker/1:0-events]
+root       25344  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/0:0-rcu_gp]
+root       25358  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/3:2-events]
+root       25379  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/2:0-events]
+root       25397  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:0-events_unbound]
+root       25398  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:1-events_unbound]
+root       25399  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:2-events_unbound]
+root       25407  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/1:2-events]
+root       25408  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:3-events_unbound]
+root       25409  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:4-events_unbound]
+root       25410  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:5-events_unbound]
+root       25411  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:6-events_unbound]
+root       25412  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:7-events_unbound]
+root       25413  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:9-events_unbound]
+root       25414  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:10-events_unbound]
+root       25415  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:11-events_unbound]
+root       25416  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:13-events_unbound]
+root       25417  0.0  0.0      0     0 ?        I    14:57   0:00 [kworker/u16:14-events_unbound]
+root       25418  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/3:3-events]
+root       25419  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:15-events_unbound]
+root       25420  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:16-events_unbound]
+root       25421  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:17-events_unbound]
+root       25422  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:18-events_unbound]
+root       25423  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:19-events_unbound]
+root       25424  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:20-events_unbound]
+root       25425  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:21-events_unbound]
+root       25426  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:22-events_unbound]
+root       25427  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:23-events_unbound]
+root       25428  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:24-events_unbound]
+root       25429  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:25-events_unbound]
+root       25430  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:26-events_unbound]
+root       25431  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:27-events_unbound]
+root       25432  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:28-events_unbound]
+root       25433  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:29-events_unbound]
+root       25434  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:30-events_unbound]
+root       25435  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:31-events_unbound]
+root       25436  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:32-events_unbound]
+root       25437  0.0  0.0      0     0 ?        S    15:04   0:00 [irq/60-mei_me]
+root       25438  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:33-events_unbound]
+root       25439  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:34-events_unbound]
+root       25440  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:35-events_unbound]
+root       25441  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:36-events_unbound]
+root       25442  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:37-events_unbound]
+root       25443  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:38-events_unbound]
+root       25444  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:39-events_unbound]
+root       25445  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:40-events_unbound]
+root       25446  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:41-events_unbound]
+root       25447  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:42-events_unbound]
+root       25448  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:43-events_unbound]
+root       25449  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:44-events_unbound]
+root       25450  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:45-events_unbound]
+root       25451  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:47-events_unbound]
+root       25452  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:48-events_unbound]
+root       25453  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:49-events_unbound]
+root       25454  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:50-events_unbound]
+root       25455  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:51-events_unbound]
+root       25456  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:52-events_unbound]
+root       25457  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:53-events_unbound]
+root       25458  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:54-events_unbound]
+root       25459  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:55-events_unbound]
+root       25460  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:56-events_unbound]
+root       25461  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:57-events_power_efficient]
+root       25462  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:58-i915]
+root       25463  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:59-events_unbound]
+root       25464  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:60-events_unbound]
+root       25465  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:61-events_unbound]
+root       25466  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:62-i915-dp]
+root       25467  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:63]
+root       25468  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/u16:64]
+root       25469  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/0:2-events]
+root       25470  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/0:3-events]
+root       25471  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/2:1-mm_percpu_wq]
+root       25472  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/2:3-events]
+root       25473  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/0:5-cgroup_destroy]
+ostcode    25488  0.1  0.7 2404068 60536 ?       Sl   15:04   0:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 45 -isForBrowser -prefsLen 31854 -prefMapSize 229096 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {2de1f7af-c560-45d7-8239-a8636df9dad9} 16720 true tab
+root       25509  0.1  0.0      0     0 ?        I<   15:04   0:00 [kworker/u17:0-i915_flip]
+root       25590  0.0  0.0      0     0 ?        I<   15:04   0:00 [kworker/u17:3]
+ostcode    25628  0.6  0.8 2872580 65576 ?       Sl   15:04   0:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:0:0:0
+root       25744  0.1  0.0  27100  4240 ?        S    15:05   0:00 /lib/systemd/systemd-udevd
+ostcode    25808  0.0  0.0  23888  3696 pts/2    R+   15:06   0:00 ps aux

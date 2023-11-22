@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="form-style-10">
+    <h1>Add new book!<span>Feel the fields and and new books to the DB!</span></h1>
+    <form action="/books/author" method="post">
+        <div class="section"><span>1</span>Get bookss for author</div>
+        <div class="inner-wrap">
+            <label>Author<input type="text" name="author"/></label>
+        </div>
+        <div class="button-section">
+            <input type="submit" name="Get books"/>
+        </div>
+    </form>
+</div>
+{% endblock %}

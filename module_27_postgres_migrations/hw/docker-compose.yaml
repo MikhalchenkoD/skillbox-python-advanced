@@ -1,0 +1,29 @@
+version: '3'
+
+services:
+  flask:
+    build:
+      context: .
+      dockerfile: flask/Dockerfile
+    ports:
+      - "8000:8000"
+    networks:
+      - my_network
+
+  postgres:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - log_destination=stderr
+      - logging_collector=on
+    ports:
+      - "5432:5432"
+    networks:
+      - my_network
+    volumes:
+      - ./db/:/var/lib/postgresql/data
+
+networks:
+  my_network:
+    driver: bridge
